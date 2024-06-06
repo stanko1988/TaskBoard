@@ -16,8 +16,8 @@ The app is based on Node.js + Express.js + Pug.
  - It has **no database** and app data is not persistent!
 
 ## Live Demo
- - Web app live demo: https://taskboard.nakov.repl.co
- - RESTful API live demo: https://taskboard.nakov.repl.co/api
+ - Web app live demo: https://taskboard-ok68.onrender.com/
+ - RESTful API live demo: https://taskboard-ok68.onrender.com/api
  - Play with the code at: https://repl.it/@nakov/taskboard
 
 ## RESTful API
